@@ -1,0 +1,9 @@
+{
+  "last_report_path": "C:\\Users\\Mega\\AppData\\Local\\hermes\\logs\\curator\\20261023-172102",
+  "last_run_at": "2026-10-23T17:21:02.989629+00:00",
+  "last_run_duration_seconds": 1.146842,
+  "last_run_summary": "auto: 1 archived, 1 reactivated; llm: skipped (consolidation off)",
+  "last_run_summary_shown_at": null,
+  "paused": false,
+  "run_count": 4
+}
